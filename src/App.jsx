@@ -28,7 +28,7 @@ function App() {
 
 
     <>
-      <BrowserRouter basename="/proyectoFinalReactMondinoDeLaRossa">
+      <BrowserRouter basename="/proyectoFinalMondinoReact">
         <h2>TIENDA LA PIETÁ</h2>
         <NavBar1 />
         <NavBar />
